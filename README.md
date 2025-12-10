@@ -31,6 +31,7 @@ Make sure the current environment is : cd /shared/team/people/amal/Task_2/Part_1
 - conda env create -f environment.yml
 - conda activate pipeline
 To run the scripts in a terminal:
+
 - chmod +x Validation_script_done.sh (to make .sh executable)
 - bash -x Validation_script_done.sh (to run)
 - chmod +x Pipeline_script_done.sh (executable)
