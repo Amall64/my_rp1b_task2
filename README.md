@@ -110,6 +110,7 @@ This showed the total for both snps and indels
 
 ## Part 2 – Variant Calling Pipeline
 Running Part 2
+
 python Part2_complete.py
 
 What this does:
