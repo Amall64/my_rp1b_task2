@@ -1,0 +1,18 @@
+name: pipeline
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - bwa
+  - samtools
+  - bcftools
+  - snippy
+  - biopython
+  - numpy
+  - pandas
+  - jupyter
+  - pip
+
