@@ -23,10 +23,11 @@
 ## Part 2 results 
 ### Variant calls on simulated data 
 
-| Pipeline | Precision | Recall | F1 Score | Interpretation |
-|----------|-----------|--------|----------|----------------|
-| **Part 1: bcftools only** | 100% | 92.2% | 95.9% | Very accurate but misses variants |
-| **Part 2: bcftools + Snippy** | 99.0% | 96.9% | 97.9% | Much better balance; highest overall accuracy |
+| Pipeline | Precision | Recall | F1 Score |
+|----------|-----------|--------|----------|
+| **Part 1: bcftools only** | 100% | 92.2% | 95.9% |
+| **Part 2: bcftools + Snippy** | 99.0% | 96.9% | 97.9% |
+
 
 
 These results are comparing part1_results.csv to part2_validation_results.csv
