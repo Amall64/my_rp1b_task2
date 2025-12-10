@@ -51,6 +51,7 @@ For snippy to work make sure you have the following versions:
 ## Part 1 – Validation Code: Mutating the Genome
 
 Running Part 1
+
 python Part1_complete.py
 
 What this does:
