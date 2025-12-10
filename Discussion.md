@@ -68,6 +68,7 @@ This confirms, for high confidence variants:
 - Both variant callers agreed on single based substitution (snps)
 - Consistent alignment patterns 
 - The location of the variant is in non repetitive regions and good quality regions 
+
 For low confidence variants (one caller):
 - They are in low quality regions where coverage may fluctuate 
 - Alignment shifts from indels can confuse the callers 
